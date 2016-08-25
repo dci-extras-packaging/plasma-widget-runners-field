@@ -2,7 +2,8 @@ Source: plasma-widget-runners-field
 Section: unknown
 Priority: optional
 Maintainer: Rohan Garg <rohan@kde.org>
-Build-Depends: debhelper (>=9),
+Build-Depends: cmake,
+               debhelper (>=9),
                extra-cmake-modules,
                libkf5runner-dev,
                plasma-framework-dev,
