@@ -6,7 +6,7 @@ Build-Depends: cmake,
                debhelper (>=9),
                extra-cmake-modules,
                libkf5runner-dev,
-               plasma-framework-dev,
+               libkf5plasma-dev,
                qtbase5-dev,
                qtdeclarative5-dev
 Standards-Version: 3.9.8
